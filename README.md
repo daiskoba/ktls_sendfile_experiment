@@ -1,6 +1,8 @@
 ktls_sendfile_experiment
 ========================
 
+I wrote a blog at [Linuxのkernel TLSでnginxのSSL_sendfileを試してみた · hnakamur's blog](https://hnakamur.github.io/blog/2021/10/31/tried-linux-kernel-tls-nginx-sendfile/).
+
 ## Build docker image
 
 ```
