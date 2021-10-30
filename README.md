@@ -7,7 +7,7 @@ ktls_sendfile_experiment
 docker build -t ktls_sendfile .
 ```
 
-## Run OpenSSL ktls_senfile test
+## Run OpenSSL ktls_sendfile test
 
 ```
 docker run --rm -it ktls_sendfile test_sslapi.sh
